@@ -1,0 +1,12 @@
+{
+  "name": "@hallazzang/hello-github-package-registry-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Hanjun Kim <hallazzang@gmail.com>",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
